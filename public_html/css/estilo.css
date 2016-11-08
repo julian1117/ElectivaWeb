@@ -1,0 +1,13 @@
+.main-menu {
+    text-transform: uppercase;
+}
+.fondoHead{
+    width: 100%;
+    height: 20%;
+    background: #333333;
+}
+.fondoMenu{
+    width: 100%;
+    height: 20%;
+    background: black;
+}
