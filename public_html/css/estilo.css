@@ -242,6 +242,18 @@ ul, ol {
     color:#000;
 }
 
+.opa{
+      opacity: 20%;
+}
+
+.opa:hover {
+    color: #338ecf;
+}
+.opa:active {
+	position:relative;
+	top:1px;
+}
+
 .dos{
      margin-right:-98%;
 
@@ -295,6 +307,8 @@ ul, ol {
     width: 400px;
     height: 50px;
 }
+
+
 .fotoPlantitillaUno{
     background: url(../imagenes/mini1.png);
     margin-top: 100px;
