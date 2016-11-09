@@ -200,9 +200,30 @@ ul, ol {
     width: 50%;
     height: 150px;
 }
+
+
 .freeTabla{
 
     color: #00cc33;
+}
+
+.titulo{
+    font-family: arial;
+    font-size: x-large;
+
+}
+
+.imagenes{
+     margin-left: 10%;
+}
+
+.uno{
+    margin-right:25%;
+}
+
+.dos{
+     margin-right:38%;
+
 }
 .parrafoUno{
     color:  #ffffff;
