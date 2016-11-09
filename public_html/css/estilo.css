@@ -237,6 +237,18 @@ ul, ol {
     color:#000;
 }
 
+.opa{
+      opacity: 20%;
+}
+
+.opa:hover {
+    color: #338ecf;
+}
+.opa:active {
+	position:relative;
+	top:1px;
+}
+
 .dos{
      margin-right:-98%;
 
