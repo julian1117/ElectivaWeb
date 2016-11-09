@@ -1,6 +1,8 @@
 .main-menu {
     text-transform: uppercase;
+    margin-left: 100px;
 }
+
 .fondoHead{
     width: 100%;
     height: 20%;
@@ -207,4 +209,8 @@ ul, ol {
     border-color: #eceeee;
     font-size: 40px;
     margin-top: 200px;
+}
+.logo{
+    width: 400px;
+    height: 50px;
 }
