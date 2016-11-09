@@ -16,7 +16,18 @@
 .fondoUno{
     background: url(../imagenes/fondo1_Index.jpg);
     width: 100%;
-    height: 600px;
+    height: 700px;
+}
+
+.fondoDos{
+    background: url(../imagenes/fondo2_todo_comienza.jpg);
+    width: 100%;
+    height: 700px;
+}
+.fondoTres{
+    background: url(../imagenes/fondo3_index_diseña_tu_mismo.jpg);
+    width: 100%;
+    height: 700px;
 }
 .main-menu {
     text-transform: uppercase;
@@ -230,7 +241,42 @@ ul, ol {
     border-color: #eceeee;
     font-size: 40px;
     margin-top: 200px;
+    margin-left: 100px;
 }
+
+.tituloDos{
+    color:  #ffffff;
+    border-color: #eceeee;
+    font-size: 40px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.tituloTres{
+    color:  #ffffff;
+    border-color: #eceeee;
+    font-size: 40px;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+
+
+
+.parrafoDos{
+    color:  #ffffff;
+    border-color: #eceeee;
+    font-size: 20px;
+    width: 600px;
+    margin-left: 100px;
+}
+.parrafoTres{
+    color:  #ffffff;
+    border-color: #eceeee;
+    font-size: 20px;
+    width: 600px;
+    margin-left: 100px;
+}
+
 .logo{
     width: 400px;
     height: 50px;
