@@ -29,6 +29,11 @@
     width: 100%;
     height: 700px;
 }
+.fondoCuatro{
+    background: url(../imagenes/fondo4_plantillas.jpg);
+    width: 100%;
+    height: 700px;
+}
 .main-menu {
     text-transform: uppercase;
 }
@@ -284,4 +289,7 @@ ul, ol {
 .logo{
     width: 400px;
     height: 50px;
+}
+.fotoPlantitillaUno{
+    
 }
