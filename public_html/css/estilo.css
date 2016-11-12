@@ -25,7 +25,7 @@
     height: 700px;
 }
 .fondoTres{
-    background: white;
+    background: url(../imagenes/fondo3_index_diseña_tu_mismo.jpg);
     width: 100%;
     height: 700px;
 }
@@ -93,7 +93,7 @@ ul, ol {
 }
 
 .fondoSuscripciones1{
-
+    
     background-color: #6a9cb7;
     opacity: 20%;
     width: 100%;
@@ -102,7 +102,7 @@ ul, ol {
     background: -o-linear-gradient(#6a9cb7, #18455d); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(#6a9cb7, #18455d); /* For Firefox 3.6 to 15 */
     background: linear-gradient(#6a9cb7, #18455d); /* Standard syntax */
-
+    
 
 }
 
@@ -118,7 +118,7 @@ ul, ol {
 }
 
 .letraSuscripcion{
-    font-family: none;
+     font-family: none;
     font-family: serif;
     font-size: 16px;
     color: #ffffff;
@@ -126,7 +126,7 @@ ul, ol {
 
 .tablaSuscripcion{
 
-
+ 
     font-family: none;
     font-family: serif;
     font-size: 16px;
@@ -163,9 +163,9 @@ ul, ol {
 }
 
 .letraSuscripcionTabla{
-
-    font-family: none;
-    text-align: center;
+     
+     font-family: none;
+     text-align: center;
     font-family: serif;
     text-align: center;
     font-size: 16px;
@@ -220,7 +220,7 @@ ul, ol {
     height:200px; 
 }
 .modosDePago{
-    background-color: #6a9cb7;
+     background-color: #6a9cb7;
     opacity: 20%;
     width: 100%;
     height:245px; 
@@ -247,14 +247,14 @@ ul, ol {
 }
 
 .imagenFondoFREE{
-
+    
     background: url(../imagenes/fondo1SsuscripcionFREE.jpg);
     width: 100%;
     height: 350px;
 }
 
 .tituloFree{
-
+    
     margin-top: -250px;
     margin-left: 740px;;
     color: #ffffff;
@@ -263,26 +263,26 @@ ul, ol {
 }
 
 .myButton2 {
-    background-color:transparent;
-    -moz-border-radius:28px;
-    -webkit-border-radius:28px;
-    border-radius:28px;
-    border:1px solid #ffffff;
-    display:inline-block;
-    cursor:pointer;
-    color:#ffffff;
-    font-family:Arial;
-    font-size:16px;
-    padding:14px 18px;
-    text-decoration:none;
-    text-shadow:0px 1px 0px #ffffff;
+	background-color:transparent;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	padding:14px 18px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
 }
 .myButton2:hover {
-    background-color:transparent;
+	background-color:transparent;
 }
 .myButton2:active {
-    position:relative;
-    top:1px;
+	position:relative;
+	top:1px;
 }
 
 .azulLetra{
@@ -329,19 +329,19 @@ ul, ol {
     font-size: 15px;
     margin-top: -68px;
     margin-left: 150px;
-    position: absolute;
+     position: absolute;
 }
 
 .separacionSuscripcionPremium2{
     width: 100%;
     height: 400px;
     background-color: #e8e8e8;
-
-    background: -webkit-linear-gradient(#e8e8e8,white); /* For Safari 5.1 to 6.0 */
+    
+     background: -webkit-linear-gradient(#e8e8e8,white); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(#e8e8e8,white); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(#e8e8e8,white); /* For Firefox 3.6 to 15 */
     background: linear-gradient(#e8e8e8,white); /* Standard syntax */
-
+    
 }
 
 .imgServicios2{
@@ -373,7 +373,7 @@ ul, ol {
 }
 
 .letraInfo6{
-
+    
     font-family: none;
     color: #000000;
     font-size: 13px;
@@ -383,26 +383,17 @@ ul, ol {
 }
 .titulo{
     font-family: arial;
-    font-size: 40px;
-    height: 90%;
-    color: #ffffff;
-}
+    font-size: x-large;
 
-.im{
-   background: url(../imagenes/fondo4_plantillas.jpg);
-    margin-top: 40px;
-    margin-left: 120px;
-    width: 80%;
-    height: 90px;
 }
 
 .imagenes{
-    margin-left: 10%;
+     margin-left: 10%;
 }
 
 .uno{
     margin-right:25%;
-
+   
 }
 
 .colorLetra{
@@ -410,7 +401,7 @@ ul, ol {
 }
 
 .dos{
-    margin-right:-98%;
+     margin-right:-98%;
 
 }
 
@@ -433,7 +424,8 @@ ul, ol {
     margin-left: 100px;
 }
 .tituloTres{
-    color:  black;
+    color:  #ffffff;
+    border-color: #eceeee;
     font-size: 40px;
     margin-top: 80px;
     margin-left: 100px;
@@ -458,15 +450,15 @@ ul, ol {
 }
 
 .logo{
-    width: 300px;
+    width: 400px;
     height: 50px;
 }
 
 
 .fotoPlantitillaUno{
     background: url(../imagenes/mini1.png);
-    margin-top: 40px;
-    margin-left: 180px;
+    margin-top: 100px;
+    margin-left: 160px;
     width: 400px;
     height: 200px;
 }
@@ -474,62 +466,112 @@ ul, ol {
     background: url(../imagenes/mini1.png);
     opacity: 0.7;
 }
-.fotoPlantitillaDos{
-    background: url(../imagenes/mini2.jpg);
-    margin-top: 40px;
-    margin-left: 150px;
-    margin-right: 100px;
-    width: 400px;
-    height: 200px;
+
+.fondoAyuda{
+    background: url(../imagenes/ayuda4.gif);
+    
+    width: 1340px;
+    height: 400px;
+ 
 }
-.fotoPlantitillaDos:hover{
-    background: url(../imagenes/mini2.jpg);
-    opacity: 0.7;
+.botonBuscar{
+   z-index: 1;
+   position: relative;
+    top: 40px;
+    left: 253px;
+    background-image:  url(../imagenes/iconoBuscar.png);
+    width: 38px;
+    height: 38px
 }
-.fotoPlantitillaTres{
-    background: url(../imagenes/mini3.jpg);
-    margin-top: 40px;
-    margin-left: 180px;
-    width: 400px;
-    height: 200px;
+.textoAyuda{
+   color:  #ffffff;
+   border-color: #eceeee;
+    
 }
-.fotoPlantitillaTres:hover{
-    background: url(../imagenes/mini3.jpg);
-    opacity: 0.7;
+.textouno{
+    margin-top: 60px;
+    color:  #ffffff;
+    border-color: #eceeee;
+    font-size: 80px;
 }
-.fotoPlantitillaCuatro{
-    background: url(../imagenes/mini4.jpg);
-    margin-top: 40px;
-    margin-left: 150px;
-    width: 400px;
-    height: 200px;
+.textodos{
+   color:  #ffffff;
+   border-color: #eceeee;
+   font-size: 20px;
 }
-.fotoPlantitillaCuatro:hover{
-    background: url(../imagenes/mini4.jpg);
-    opacity: 0.7;
+.campoTexto{
+    
+    z-index: 0;
+     margin-top: 40px;
+     position: absolute;
+     left: 410px;
+     
+}
+.espacio{
+    width: 1340px;
+    height: 100px;
+}
+.tituloAyuda{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 12px;
+    color: #162d3d;
+}
+.subAyuda{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    padding-bottom: 4px;
+    position: relative;
+   
+    font-size: 15px;
+}
+.fondoFooter{
+    width: 1340px;
+    height: 450px;
+    margin-bottom: 10px;
+    background-color: #578bbd;
+}
+.tituloFooter{
+    
+    color:  #ffffff;
+   border-color: #eceeee;
+   font-size: 15px;
+}
+.subTituloFooter{
+    margin-top:  25px;
+}
+.finalFooter{
+    font-size: 15px;
+    color:  #ffffff;
+   border-color: #eceeee;
+}
+.iconosFooter{
+    border-radius: 10px;
+    width:25px;
+    height: 25px;
+}
+.fondoImagen{
+    background-image: url(../imagenes/fondo4_plantillas.jpg);
+    width: 1363px;
+    height: 450px;
+    
+}
+.textoQuienesSomos{
+    font-size: 20px;
+    color: #18455d;
+    
+}
+.borde{
+    margin-left:  500px;
+}
+.MargenFooterQuinesSomos{
+    margin-left: 250px;
+}
+.LetraGrandeQuienesSomos{
+    font-size: 30px;
 }
 
-.pie{
-    background: #f8f8f8;
-    width: 100%;
-    height: 180px;
-}
-.pieTextUno{
-    margin-left: 10%;
-}
-.tituloGrande{
-    color:  #ffffff;
-    border-color: #eceeee;
-    font-size: 60px;
-    margin-top: 100px;
-    margin-left: 100px;
-}
-.tituloMedio{
-    color:  #ffffff;
-    border-color: #eceeee;
-    font-size: 40px;
-    margin-left: 100px;
-}
-.textoPlantillas{  
-    margin-left: 330px;   
-}
