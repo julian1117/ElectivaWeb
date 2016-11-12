@@ -451,18 +451,20 @@ ul, ol {
 }
 
 .fotoPlantitillaUno{
-    background: url(../imagenes/mini2.jpg);
+    background: url(../imagenes/mini1.png);
+    margin-top: 30px;
     margin-left: 160px;
     width: 400px;
     height: 200px;
 }
 .fotoPlantitillaUno:hover{
-    background: url(../imagenes/mini2.jpg);
+    background: url(../imagenes/mini1.png);
     opacity: 0.7;
 }
 .fotoPlantitillaDos{
     background: url(../imagenes/mini2.jpg);
-    margin-left: 160px;
+    margin-top: 30px;
+    margin-left: 120px;
     width: 400px;
     height: 200px;
 }
@@ -472,6 +474,7 @@ ul, ol {
 }
 .fotoPlantitillaTres{
     background: url(../imagenes/mini3.jpg);
+    margin-top: 30px;
     margin-left: 160px;
     width: 400px;
     height: 200px;
@@ -482,7 +485,8 @@ ul, ol {
 }
 .fotoPlantitillaCuatro{
     background: url(../imagenes/mini4.jpg);
-    margin-left: 160px;
+    margin-top: 30px;
+    margin-left: 120px;
     width: 400px;
     height: 200px;
 }
