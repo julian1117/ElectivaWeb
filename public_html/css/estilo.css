@@ -544,12 +544,17 @@ input[type="text"]{
     padding: 12px;
     font-size: 14px;
     font-family: inherit;
-    font-weight: 400;
     overflow: auto;
     vertical-align: middle;
     margin-bottom: 15px;
     border: 1px solid #999;
+    height: 48px;
    
+}
+
+textarea{
+    height: 100px;
+    width: 860px;
 }
 
 .tituuloCon{
@@ -561,10 +566,43 @@ input[type="text"]{
 }
 
 .campoUno{
-    margin-left: 15%;
+    margin-left: 10%;
 }
 
 .campoDos{
-    margin-left: 25%;
+    margin-left: 15%;
 }
 
+.campoTres{
+    margin-left: 10%;
+}
+
+.campoCuatro{
+    margin-left: 10%;
+}
+
+
+.zt-button {
+    margin-left: 11.5%;
+    font-weight: 700;
+    font-size: 12px;
+    padding: 12px 20px 15px 20px;
+    display: inline-block;
+    text-decoration: none;
+    background-color: #ffc600;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    border-radius: 2px;
+    webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    border: none;
+    -webkit-box-shadow: 0 -2px rgba(0, 0, 0, 0.2) inset;
+    -moz-box-shadow: 0 -2px rgba(0, 0, 0, 0.2) inset;
+    box-shadow: 0 -2px rgba(0, 0, 0, 0.2) inset;
+}
+.zt-button:hover {
+    background-color: #555555;
+}
