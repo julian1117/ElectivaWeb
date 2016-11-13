@@ -413,7 +413,6 @@ ul, ol {
     border-color: #eceeee;
     font-size: 40px;
     margin-top: 200px;
-    margin-left: 100px;
 }
 
 .tituloDos{
@@ -424,12 +423,14 @@ ul, ol {
     margin-left: 100px;
 }
 .tituloTres{
-    color:  #ffffff;
-    border-color: #eceeee;
-    font-size: 40px;
-    margin-left: 100px;
+    font-size: 35px;
+    
+    margin-bottom: 30px;
 }
-
+.distanciaParrafoTres{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
 .parrafoDos{
     color:  #ffffff;
     border-color: #eceeee;
