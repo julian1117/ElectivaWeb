@@ -381,11 +381,7 @@ ul, ol {
     margin-left: -500px;
     margin-top: -160px;
 }
-.titulo{
-    font-family: arial;
-    font-size: x-large;
 
-}
 
 .imagenes{
      margin-left: 10%;
@@ -398,6 +394,10 @@ ul, ol {
 
 .colorLetra{
     color:#000;
+}
+
+.colorLetra:hover{
+    color: #00cccc;
 }
 
 .dos{
@@ -673,10 +673,10 @@ textarea{
 
 
 .zt-button {
-    width: 110px;
+    width: 100px;
     margin-left: 11.2%;
-    font-weight: 900;
-    font-size: 16px;
+    font-weight: 800;
+    font-size: 14px;
     padding: 12px 20px 15px 20px;
     display: inline-block;
     text-decoration: none;
@@ -695,5 +695,24 @@ textarea{
     box-shadow: 0 -2px rgba(0, 0, 0, 0.2) inset;
 }
 .zt-button:hover {
-    background-color: #555555;
+    background-color: #00cccc;
+}
+
+.redes{
+    margin-left: 20%;
+}
+.titulo{
+    font-family: arial;
+    font-size: 40px;
+    height: 90%;
+    color: #ffffff;
+        
+
+}
+.im{
+    background: url(../imagenes/fondo4_plantillas.jpg);
+    margin-top: 40px;
+    margin-left: 120px;
+    width: 80%;
+    height: 90px;
 }
