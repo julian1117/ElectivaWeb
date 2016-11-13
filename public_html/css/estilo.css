@@ -94,46 +94,44 @@ ul, ol {
 
 .fondoSuscripciones1{
 
-    background-color: #6a9cb7;
+    background-color: white;
     opacity: 20%;
     width: 100%;
     height:300px; 
-    background: -webkit-linear-gradient(#6a9cb7,#18455d ); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#6a9cb7, #18455d); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#6a9cb7, #18455d); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#6a9cb7, #18455d); /* Standard syntax */
+   
+}
 
+.imagenSuscripciones{
+    
+    width: 100%;
+    height: 600px;
+}
 
+.imagenSuscripcionesPeremium{
+    width: 100%;
+    height: 300px; 
 }
 
 .titulosSuscripcion{
-    font-family: none;
     font-size: 30px;
-    color: #ffffff;
+    color: #0099cc;
 }
 
 .colorEnfasis{
-    font-style: none;
     color: #02528a;
 }
 
 .letraSuscripcion{
-    font-family: none;
-    font-family: serif;
     font-size: 16px;
-    color: #ffffff;
+    color: #0099cc;
 }
 
 .tablaSuscripcion{
-
-
-    font-family: none;
-    font-family: serif;
     font-size: 16px;
     color: #ffffff;  
     background-color: #6a9cb7;
     border-collapse: separate;
-    border-spacing: 5px 0px;
+    border-spacing: 20px 0px;
     background: -webkit-linear-gradient(#18455d,#6a9cb7,white ); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(#18455d,#6a9cb7,white); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(#18455d,#6a9cb7,white); /* For Firefox 3.6 to 15 */
@@ -144,7 +142,7 @@ ul, ol {
 .tablaSuscripcion tr , th{
 
     background-color: #ffffff;
-    width: 200px;
+    width: 235px;
     height: 400px;
     border-radius: 2%;
 }
@@ -157,77 +155,59 @@ ul, ol {
 
     text-align: center;
     margin-top: auto;
-    font-family: none;
     font-size: 30px;
-    color: #27c1f8;
+    color: #ffffff;
 }
 
 .letraSuscripcionTabla{
 
-    font-family: none;
-    text-align: center;
-    font-family: serif;
     text-align: center;
     font-size: 16px;
     color: #02528a;
+}
+
+.letraSuscripcionTablaNumeros{
+    text-align: center;
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.letraSuscripcionTablaContenido{
+     text-align: center;
+    font-size: 16px;
+    color: #ffffff;
 }
 
 .tamanioNumerosTabla{
     font-size: 30px;
 }
 .myButton {
-    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #459ac7), color-stop(1, #08458f));
-    background:-moz-linear-gradient(top, #459ac7 5%, #08458f 100%);
-    background:-webkit-linear-gradient(top, #459ac7 5%, #08458f 100%);
-    background:-o-linear-gradient(top, #459ac7 5%, #08458f 100%);
-    background:-ms-linear-gradient(top, #459ac7 5%, #08458f 100%);
-    background:linear-gradient(to bottom, #459ac7 5%, #08458f 100%);
-    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#459ac7', endColorstr='#08458f',GradientType=0);
-    background-color:#459ac7;
-    -moz-border-radius:33px;
-    -webkit-border-radius:33px;
-    border-radius:33px;
-    border:2px solid #2270bd;
-    display:inline-block;
-    cursor:pointer;
-    color:#ffffff;
-    font-family:Times New Roman;
-    font-size:15px;
-    padding:13px 27px;
-    text-decoration:none;
-    text-shadow:0px 1px 0px #4b84ad;
+	background-color:transparent;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+        border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+        color: #0a90b9;
+	font-size:17px;
+	padding:13px 25px;
+	text-decoration:none;
 }
 .myButton:hover {
-    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #08458f), color-stop(1, #459ac7));
-    background:-moz-linear-gradient(top, #08458f 5%, #459ac7 100%);
-    background:-webkit-linear-gradient(top, #08458f 5%, #459ac7 100%);
-    background:-o-linear-gradient(top, #08458f 5%, #459ac7 100%);
-    background:-ms-linear-gradient(top, #08458f 5%, #459ac7 100%);
-    background:linear-gradient(to bottom, #08458f 5%, #459ac7 100%);
-    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#08458f', endColorstr='#459ac7',GradientType=0);
-    background-color:#08458f;
+	background-color:transparent;
+        color: #ffffff;
 }
 .myButton:active {
-    position:relative;
-    top:1px;
+	position:relative;
+	top:1px;
 }
 
+
 .separacionSuscripcion{  
-    background-color: #6a9cb7;
-    background-color: #a7cad7;
     opacity: 20%;
     width: 100%;
     height:200px; 
-}
-.modosDePago{
-    background-color: #6a9cb7;
-    opacity: 20%;
-    width: 100%;
-    height:245px; 
-    background: -webkit-linear-gradient(white,#6a9cb7,#18455d ); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(white,#6a9cb7,#18455d); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(white,#6a9cb7,#18455d); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(white,#6a9cb7,#18455d); /* Standard syntax */
 }
 .imagenOpcionesSuscripcion{
     width: 100%;
@@ -240,10 +220,15 @@ ul, ol {
     height: 150px;
 }
 
+.imagenFondoOpciones{
+    margin-top: -130px;
+     width: 50%;
+    height: 350px;
+}
 
 .freeTabla{
 
-    color: #00cc33;
+    color: #0d76a8;
 }
 
 .imagenFondoFREE{
@@ -310,14 +295,12 @@ ul, ol {
 }
 
 .letraInfo1{
-    font-family: none;
     font-size: 15px;
     margin-left: -530px;
     margin-top: -30px;
 }
 
 .letraInfo2{
-    font-family: none;
     font-size: 15px;
     margin-top: -68px;
     margin-left: -115px;
@@ -325,7 +308,6 @@ ul, ol {
 }
 
 .letraInfo3{
-    font-family: none;
     font-size: 15px;
     margin-top: -68px;
     margin-left: 150px;
@@ -335,51 +317,29 @@ ul, ol {
 .separacionSuscripcionPremium2{
     width: 100%;
     height: 400px;
-    background-color: #e8e8e8;
-
-    background: -webkit-linear-gradient(#e8e8e8,white); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#e8e8e8,white); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#e8e8e8,white); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#e8e8e8,white); /* Standard syntax */
-
+   background: url(../imagenes/serviciosFree2.jpg);
+}
+.info{
+    width: 100%;
+    height: 140px;
 }
 
-.imgServicios2{
-    width: 600px;
-    height: 300px;
-    margin-left: 615.6px;   
-    margin-top: 50px;
-    border-radius: 2%;
-    border: 15px;
-    border-color: #ffffff;
-}
 
 .letraInfo4{
-    position: absolute;
-    font-family: none;
     font-size: 20px;
-    margin-left: -480px;
-    margin-top: -300px;
+    margin-top: 30px;
     color: #25b19c;
 }
 
 .letraInfo5{
-    font-family: none;
     color: #93e3d7;
     font-size: 15px;
-    position: absolute;
-    margin-left: -430px;
     margin-top: -220px;
 }
 
 .letraInfo6{
-
-    font-family: none;
-    color: #000000;
-    font-size: 13px;
-    position: absolute;
-    margin-left: -500px;
-    margin-top: -160px;
+     font-size: 15px;
+     color: black ;
 }
 .titulo{
     font-family: arial;
@@ -446,7 +406,7 @@ ul, ol {
 }
 
 .logo{
-    width: 400px;
+    width: 300px;
     height: 50px;
 }
 
@@ -606,7 +566,7 @@ ul, ol {
 .pie{
     background: #f8f8f8;
     width: 100%;
-    height: 180px;
+    height: 235px;
 }
 .pieTextUno{
     margin-left: 10%;
@@ -759,3 +719,35 @@ textarea{
     width: 299px;
     height: 48px;
 }
+.separacionSuscripcion{
+    width: 100%;
+    margin-top: 245px;
+}
+
+.contenidoFree{
+    width: 100%;
+    height: 300px;
+}
+
+.iconoPC{
+    width: 60px;
+    margin-left: 360px;
+    margin-top: 30px;
+}
+.iconoRed{
+     width: 60px;
+     margin-left: 80px;
+     margin-top: 30px;
+}
+.iconoServidor{
+     width: 60px;
+     margin-left: 80px;
+     margin-top: 30px;
+}
+.iconoMundo{
+     width: 60px;
+     margin-left: 80px;
+     margin-top: 30px;
+}
+
+
