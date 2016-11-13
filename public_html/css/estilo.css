@@ -712,14 +712,14 @@ textarea{
     height: 65px;
 }
 .inisioSesion{
-    font-size: 40px;
+    font-size: 50px;
     margin-bottom: 30px;
     margin-top: 50px;
 }
 .tamañoRegistro{
     margin-left: 30%;
     margin-top: 3%;
-    width: 40%;
+    width: 50%;
     height: 20%;
 }
 .espacioOpcRecuperacion{
@@ -733,20 +733,29 @@ textarea{
     border-radius:40px;
     border:2px solid #00cccc;
     width: 200px;
-    height: 65px;
+    height: 55px;
 }
 .botonSesion:hover{
     background: #00cccc;
 }
 .iniciaFacebook{
-    background: url(../imagenes/iniciaFacebook.jpg);
+    background-image: url(../imagenes/iniciaFacebook.jpg);
+    width: 299px;
+    height: 48px;
 }
 .iniciaFacebook:hover{
-    background: url(../imagenes/iniciaFacebookHover.jpg)
+    background-image: url(../imagenes/iniciaFacebookHover.jpg);
+    width: 299px;
+    height: 48px;
 }
 .iniciaGoogle{
-    background: url(../imagenes/iniciaGoogle.jpg);
+    margin-top: 5%;
+    background-image: url(../imagenes/iniciaGoogle.jpg);
+    width: 299px;
+    height: 48px;
 }
 .iniciaGoogle:hover{
-    background: url(../imagenes/iniciaGoogleHover.jpg)
+    background-image: url(../imagenes/iniciaGoogleHover.jpg);
+    width: 299px;
+    height: 48px;
 }
