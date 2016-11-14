@@ -559,7 +559,7 @@ ul, ol {
 }
 .fondoFooter{
     width: 1340px;
-    height: 450px;
+    height: 480px;
     margin-bottom: 10px;
     background-color: #578bbd;
 }
@@ -778,4 +778,9 @@ textarea{
     background-image: url(../imagenes/iniciaGoogleHover.jpg);
     width: 299px;
     height: 48px;
+}
+
+#subTituloFooterContacto{
+    color:#ffffff;
+    font-size: 40px;
 }
