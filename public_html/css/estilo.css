@@ -148,6 +148,11 @@ ul, ol {
 }
 
 .posicionPabla{
+    margin-top: -50px;
+}
+
+.posicionTablaSus{
+  
     margin-top: -120px;
 }
 
