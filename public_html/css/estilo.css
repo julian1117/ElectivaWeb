@@ -537,6 +537,14 @@ ul, ol {
     height: 500px;
     background-color: #f9f9f9;
 }
+
+.fondoFooterPlantilla{
+    margin-left: -100px;
+    width: 130%;
+    height: 500px;
+    background-color: #f9f9f9;
+}
+
 .tituloFooter{
     color:  #000;
     border-color: #eceeee;
