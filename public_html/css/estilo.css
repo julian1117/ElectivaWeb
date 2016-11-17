@@ -465,7 +465,7 @@ ul, ol {
 
 .fondoAyuda{
     background: url(../imagenes/ayuda01.gif);
-    width: 1492px;
+    width: 100%;
     height: 400px;
     }
 .botonBuscar{
